@@ -1,33 +1,18 @@
-# web-starter-kit
+[![edit-in-webcomponents.dev](https://webcomponents.dev/assets/ext/edit_in_wcd.svg)](https://webcomponents.dev/edit/BMlrzWYNQRrUTQ5nt60b)
+# LitElement Starter Kit
 
-## Get started
-- `git clone https://github.com/VictoryCTO/vp-starter.git`
-- `npm i`
-<!--
-1) - Fork https://github.com/VictoryCTO/vp-starter.git
+### Starter kit result
 
-2) - `git clone https://github.com/VictoryCTO/vp-starter.git`
+```showcase
+  <my-counter></my-counter>
+```
 
-3) - `git init`
-    - `git remote add upstream https://github.com/VictoryCTO/vp-starter.git`
-    - `git pull upstream master`
--->
+### Links
 
-## Scripts
-| | |
-| - | - |
-| Build the project | `npm run build` |
-| Commit a change | `npm run commit` |
-| Run the development server | `npm run dev` |
-| Generate a service-worker | `npm run service-worker` |
+- [Official website (lit-element.polymer-project.org/)](https://lit-element.polymer-project.org/)
+- [Guide](https://lit-element.polymer-project.org/guide)
+- [Chat](https://join.slack.com/t/polymer/shared_invite/enQtNTAzNzg3NjU4ODM4LTkzZGVlOGIxMmNiMjMzZDM1YzYyMzdiYTk0YjQyOWZhZTMwN2RlNjM5ZDFmZjMxZWRjMWViMDA1MjNiYWFhZWM)
+- [GitHub](https://github.com/Polymer/lit-element)
+- [Issues](https://github.com/Polymer/lit-element/issues)
 
-
-## Tools
-| | |
-| - | - |
-| Development server | [browsersync](https://browsersync.io/docs) |
-| Commit linting | [commitizen](http://commitizen.github.io/cz-cli/) |
-| Code formatting | [prettier](https://prettier.io/) |
-| Code bundling | [rollup](https://rollupjs.org/guide/en/) |
-| Code syntax | [typescript](https://www.typescriptlang.org/docs/home.html) |
-
+> Created with [webcomponents.dev](https://webcomponents.dev)
